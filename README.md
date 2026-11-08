@@ -1,7 +1,4 @@
-﻿# NumberGuessingGame
-
-
- # Number Guessing Game (Java)
+# Number Guessing Game (Java)
 
 A number guessing game built in Java. The computer picks a random number, and the player guesses it with "Too High!" or "Too Low!" hints until they win or run out of attempts.
 
